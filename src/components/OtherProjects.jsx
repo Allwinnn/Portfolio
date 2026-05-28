@@ -1,6 +1,6 @@
 import { useState } from "react";
 import { otherProjects } from "../data/data";
-import otherProjectCard from "./OtherProjectCard";
+import OtherProjectCard from "./OtherProjectCard";
 
 export default function OtherProjects() {
   const [showMore, setShowMore] = useState(false);
