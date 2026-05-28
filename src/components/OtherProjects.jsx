@@ -55,7 +55,7 @@ export default function OtherProjects() {
         }}
       >
         {displayed.map((proj, i) => (
-          <OtherProjectCard
+          <otherProjectCard
             key={i}
             proj={proj}
             delay={i * 100}
