@@ -1,7 +1,7 @@
 import { useRef } from "react";
 import useReveal from "../hooks/useReveal";
 import { featuredProjects } from "../data/data";
-import FeaturedProjectItem from "./feat_ProjectItem";
+import FeaturedProjectItem from "./FeaturedProjectItem";
 
 export default function FeaturedProjects() {
   const titleRef = useRef(null);
