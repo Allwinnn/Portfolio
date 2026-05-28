@@ -1,0 +1,65 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  background: #081b3a;
+  color: #d3def9;
+}
+
+
+#root {
+  min-height: 100vh;
+}
+
+.hero {
+  padding: 9rem 12rem;
+  max-width: 760px;
+}
+
+.intro {
+  margin: 0;
+  font-size: 1rem;
+  color: #49f2d2;
+  font-weight: 500;
+}
+
+.name {
+  margin: 1rem 0 0.5rem;
+  font-size: clamp(2rem, 8vw, 3rem);
+  line-height: 1.05;
+  font-weight: 800;
+  color: #c9d6f5;
+}
+
+.tagline {
+  margin: 0;
+  font-size: clamp(1rem, 3vw, 2rem);
+  line-height: 1.1;
+  font-weight: 700;
+  color: #9fb0d8;
+}
+.navbar nav a {
+  color: #c9d6f5;
+  text-decoration: none;
+  margin-left: 1rem;
+  font-size: 0.95rem;
+}
+logo {
+  font-weight: 800;
+  color: #49f2d2;
+}
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  height: 64px;
+  padding: 0 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #071733;
+  border-bottom: 1px solid #1d315b;
+}
+
