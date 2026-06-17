@@ -17,7 +17,7 @@ export default function useReveal(ref, delay = 0) {
           observer.disconnect();
         }
       },
-      { threshold: 0.1 }
+      { threshold: 0.1}
     );
 
     observer.observe(el);
