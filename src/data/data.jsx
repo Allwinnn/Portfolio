@@ -5,7 +5,7 @@ import InstagramIcon from "../icons/InstagramIcon";
 
 export const navLinks = [
   { name: "About", url: "#about" },
-  { name: "Experience", url: "#jobs" },
+  { name: "Work Experience", url: "#jobs" },
   { name: "Work", url: "#projects" },
   { name: "Contact", url: "#contact" },
 ];
@@ -28,38 +28,16 @@ export const skills = [
 
 export const jobs = [
   {
-    title: "Senior Software Engineer",
-    company: "Acme Corp",
-    url: "#",
-    range: "Jan 2023 – Present",
+    title: "AI Engineering Intern",
+    company: "Marxen",
+    url: "https://www.marxen.in/",
+    range: "May 2026 - June 2026",
     duties: [
-      "Delivered high-quality, robust production code for a diverse array of projects.",
-      "Collaborated with cross-functional teams to define, design, and ship new features.",
-      "Led migration of legacy REST APIs to GraphQL, reducing payload size by 40%.",
-    ],
-  },
-
-  {
-    title: "Software Engineer",
-    company: "Tech Studio",
-    url: "#",
-    range: "Jun 2021 – Dec 2022",
-    duties: [
-      "Built and maintained multiple React applications serving 50k+ monthly users.",
-      "Wrote modern, performant, maintainable code for a demanding client base.",
-      "Mentored junior developers and conducted code reviews.",
-    ],
-  },
-
-  {
-    title: "Junior Developer",
-    company: "StartupXYZ",
-    url: "#",
-    range: "Jan 2020 – May 2021",
-    duties: [
-      "Developed and shipped highly interactive web applications using React.",
-      "Worked directly with product to define and implement new features.",
-      "Participated in daily standups, sprint planning, and retrospectives.",
+      "Worked on Naadhi HMS, a production hospital management system focused on clinical workflows, insurance operations, and patient engagement.",
+      "Analyzed hospital and insurance requirements and proposed Asha AI, a multi-agent system for discharge summary automation, TPA insurance auditing, and patient communication.",
+      "Designed REST APIs and MCP integrations connecting AI agents to SQL-backed hospital databases with 100+ relational tables.",
+      "Evaluated on-premise NVIDIA H100 and L4 GPU deployment paths and benchmarked Qwen 3, Llama 4, and DeepSeek-V4 for latency and performance tradeoffs.",
+      "Documented DPDP Act 2023 and ABDM-aligned architecture decisions to support enterprise-ready AI adoption in healthcare.",
     ],
   },
 ];
