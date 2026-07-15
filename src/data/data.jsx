@@ -11,8 +11,8 @@ export const navLinks = [
 ];
 
 export const socialMedia = [
-  { name: "GitHub", url: "https://github.com", icon: GitHubIcon },
-  { name: "LinkedIn", url: "https://linkedin.com", icon: LinkedInIcon },
+  { name: "GitHub", url: "https://github.com/Allwinnn", icon: GitHubIcon },
+  { name: "LinkedIn", url: "https://www.linkedin.com/in/b-allwinraj", icon: LinkedInIcon },
   { name: "Twitter", url: "https://twitter.com", icon: TwitterIcon },
   { name: "Instagram", url: "https://instagram.com", icon: InstagramIcon },
 ];
@@ -44,31 +44,31 @@ export const jobs = [
 
 export const featuredProjects = [
   {
-    title: "Project Alpha",
+    title: "E-Commerce lamination store",
     description:
-      "A web app for visualizing personalized analytics data using the latest modern stack. Connects to APIs, processes data in real time, and presents it in a beautiful dashboard.",
+      "A web application  for visualizing personalized analytics data using the latest modern stack. Connects to APIs, processes data in real time, and presents it in a beautiful dashboard.",
     tech: ["React", "Node.js", "PostgreSQL", "Chart.js"],
-    github: "#",
+    github: "https://github.com/Allwinnn/e-commerce-laminations",
     external: "#",
     isLeft: true,
   },
 
   {
-    title: "Project Beta",
+    title: "Diabetic Retinopathy detection",
     description:
       "A full-stack e-commerce platform with product management, cart system, and payment integration. Built with performance and accessibility in mind.",
     tech: ["Next.js", "Stripe", "Prisma", "Tailwind"],
-    github: "#",
+    github: "https://github.com/Allwinnn/diabetic-retinopathy-detection-application",
     external: "#",
     isLeft: false,
   },
 
   {
-    title: "Project Gamma",
+    title: "Expense Monitor",
     description:
       "An open-source developer tool that automatically generates documentation from code comments, saving teams hours of manual documentation work.",
     tech: ["TypeScript", "AST parsing", "Markdown", "CLI"],
-    github: "#",
+    github: "https://github.com/Allwinnn/mern-expense-monitor",
     external: "#",
     isLeft: true,
   },
@@ -100,4 +100,4 @@ export const otherProjects = [
   },
 ];
 
-export const email = "hello@yourportfolio.dev";
+export const email = "Allwinrajb@gmail.com";
