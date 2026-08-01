@@ -52,12 +52,10 @@ export default function About() {
             >
               B Allwin Raj
             </strong>{" "}
-            and I enjoy creating things that live on the
-            internet. My interest in web development
-            started back in college when I decided to try
-            building a simple website — turns out, it was
-            the beginning of a lifelong passion for code
-            and design.
+              and  I am a final-year Artificial Intelligence & Data Science student at Shiv Nadar University Chennai,
+              with a deep passion for building scalable, intelligent systems and robust web applications.
+              My journey into tech began with a curiosity for code and design,
+              which has since evolved into hands-on experience in full-stack development and AI/ML-driven application engineering.
           </p>
 
           <p
@@ -66,23 +64,19 @@ export default function About() {
               lineHeight: 1.7,
             }}
           >
-            Fast-forward to today, and I've had the
-            privilege of working at{" "}
+           
+            Fast-forward to today
+             I've had the privilege of working as an AI Engineering Intern at DreamPi,
+              where I designed multi-agent systems, built REST APIs with MCP integrations, 
+              and worked with open-weight models and GPU infrastructures.{" "}
             <a href="#" className="inline-link">
               a startup
             </a>
             ,{" "}
-            <a href="#" className="inline-link">
-              a design agency
-            </a>
-            , and{" "}
-            <a href="#" className="inline-link">
-              a product company
-            </a>
-            . My main focus these days is building
-            accessible, inclusive products and digital
-            experiences for a variety of clients.
+            . My main focus these days is engineering high-performance, intelligent digital products and scalable systems.
+
           </p>
+
 
           <p
             style={{

@@ -51,7 +51,7 @@ export default function Nav() {
             letterSpacing: "-0.05em",
           }}
         >
-          &lt;YN /&gt;
+          &lt; Alaa  /&gt;
         </a>
 
         <nav

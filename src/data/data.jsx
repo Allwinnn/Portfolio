@@ -29,8 +29,8 @@ export const skills = [
 export const jobs = [
   {
     title: "AI Engineering Intern",
-    company: "Marxen",
-    url: "https://www.marxen.in/",
+    company: "DreamPi",
+    url: "https://www.DreamPi.in/",
     range: "May 2026 - June 2026",
     duties: [
       "Worked on Naadhi HMS, a production hospital management system focused on clinical workflows, insurance operations, and patient engagement.",
@@ -46,8 +46,8 @@ export const featuredProjects = [
   {
     title: "E-Commerce lamination store",
     description:
-      "A web application  for visualizing personalized analytics data using the latest modern stack. Connects to APIs, processes data in real time, and presents it in a beautiful dashboard.",
-    tech: ["React", "Node.js", "PostgreSQL", "Chart.js"],
+      "A full stack application for my client sai suriya laminations a online lamination  store with product management, cart system, and paymnet integration. Built with performance and accessibility in mind .",
+    tech: ["React", "MongoDB", "Razorpay", "fastApi"],
     github: "https://github.com/Allwinnn/e-commerce-laminations",
     external: "#",
     isLeft: true,
@@ -56,8 +56,8 @@ export const featuredProjects = [
   {
     title: "Diabetic Retinopathy detection",
     description:
-      "A full-stack e-commerce platform with product management, cart system, and payment integration. Built with performance and accessibility in mind.",
-    tech: ["Next.js", "Stripe", "Prisma", "Tailwind"],
+      "Built an AI-assisted diabetic retinopathy screening platform that classifies retinal fundus images into five severity stages using Efficient-net model and prioritizes patients for clinical review. Integrated a Python-based inference pipeline to return predicted class, confidence breakdown, and processed image outputs for doctor-facing explainability. Designed the system to support role-based screening workflows, report generation, and real-time triage for rural eye-care settings.",
+    tech: ["Python", "Tensorflow / keras", "Effientnet Model", "MERN Stack"],
     github: "https://github.com/Allwinnn/diabetic-retinopathy-detection-application",
     external: "#",
     isLeft: false,
