@@ -54,21 +54,6 @@ export default function Footer() {
         )}
       </ul>
 
-      <a
-        href="https://github.com/bchiang7/v4"
-        target="_blank"
-        rel="noreferrer"
-        style={{
-          color: "var(--light-slate)",
-          transition: "var(--transition)",
-        }}
-      >
-        <p>Designed & Built by Your Name</p>
-
-        <p style={{ marginTop: 4 }}>
-          Inspired by Brittany Chiang
-        </p>
-      </a>
     </footer>
   );
 }
